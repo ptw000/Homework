@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework3</string>
+    <string name="change_background">Change background</string>
+    <string name="change_title">Change title</string>
+</resources>
